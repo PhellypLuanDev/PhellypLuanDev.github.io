@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+    background-image: linear-gradient(to right, #8e2de2, #4a00e0);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+
+    
+
+}
+img{
+    width: 15%;
+    padding-left: 43%;
+    padding-top: 2%;
+}
+.nome{
+    margin-left: 43%;
+}
